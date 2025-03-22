@@ -2,6 +2,8 @@ GAN Animal Faces Generator
 
 Deployed on Hugging Face Spaces: https://huggingface.co/spaces/chtanzeel4/ThisAnimalDoesNotExist
 
+Trained Model: https://drive.google.com/drive/folders/12LHZhdpc0zd-EoP0lChhNl8nbJNtLsuT?usp=sharing
+
 Deployment Instructions
 - Create a new Space on Hugging Face.
 - Select Gradio as the SDK.

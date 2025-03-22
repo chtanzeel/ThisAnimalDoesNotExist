@@ -1,3 +1,4 @@
+GAN Animal Faces Generator
 ---
 title: ThisAnimalDoesNotExist
 emoji: 😻
@@ -11,4 +12,3 @@ license: mit
 short_description: Generate Animal images
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
